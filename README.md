@@ -1,6 +1,7 @@
 # NLP_learn
 各种NLP小项目的练手  
 以下是各个项目的对应文件  
+持续更新中。。。  
   
 项目一  
 基于知识图谱的电影行业知识问答chatbot ==> my_kg_based_qa_system  
