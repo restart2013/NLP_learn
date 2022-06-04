@@ -1,0 +1,2 @@
+model_checkpoint_path: "seq2seq_fra_eng.ckpt"
+all_model_checkpoint_paths: "seq2seq_fra_eng.ckpt"
